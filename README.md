@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Spike991
-- 👀 I’m interested in programming. My favorite programming languages are Java, Javascript, C#, C etc. I'm also intrested in IT-Security. I'm very new in Linux but I wanna work myself in.
-- 🌱 I’m currently learning JQuery(Javascript), JFS(Java), linux.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+# Hi 👋, I'm Alessio!
 
-<!---
-Spike991/Spike991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**🚀 I'm a full-stack developer and a security analyst from Switzerland**
+
+Welcome to my GitHub profile! Here I share my coding projects, experiment with new technologies, and pursue my passion for software development.
+
+### 👨‍💻 About Me
+
+- 🔭 **Currently working on:** My own personal Website
+- 🌱 **Currently learning:** Flutter
+- 👯 **Looking to collaborate on:** Open-source projects / Hackathons 
+- 💬 **Ask me about:** Application Security
+- ⚡ **Fun fact:** I'm not a Nerd! I still have a life.
+
+### 🛠️ My Tech Stack
+
+*Here is a list of my go-to tools and technologies:*
+- **Languages:** Java, Typscript, C, 
+- **Frameworks & Libraries:** Angular, Node.js, Spring Boot
+- **Tools & Databases:**  Git, Docker, MySQL, Wireshark, Kali
+
+### 📫 Let's Connect!
+
+- 💼 **LinkedIn:** 
+- 🌐 **Portfolio:** not yet finished
+- 📧 **Email:** tbd
