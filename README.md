@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Here I share my coding projects, experiment with n
 ### 🛠️ My Tech Stack
 
 *Here is a list of my go-to tools and technologies:*
-- **Languages:** Java, Typscript, C, 
+- **Languages:** Java, Typescript, C, 
 - **Frameworks & Libraries:** Angular, Node.js, Spring Boot
 - **Tools & Databases:**  Git, Docker, MySQL, Wireshark, Kali
 
