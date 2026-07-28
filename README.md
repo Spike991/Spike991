@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here I share my coding projects, experiment with n
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently working on:** My own personal Website
+- 🔭 **Currently working on:** A Startup Project
 - 🌱 **Currently learning:** Flutter
 - 👯 **Looking to collaborate on:** Open-source projects / Hackathons 
 - 💬 **Ask me about:** Application Security
