@@ -21,6 +21,6 @@ Welcome to my GitHub profile! Here I share my coding projects, experiment with n
 
 ### 📫 Let's Connect!
 
-- 💼 **LinkedIn:** 
-- 🌐 **Portfolio:** not yet finished
-- 📧 **Email:** tbd
+- 💼 **LinkedIn:**  https://www.linkedin.com/in/alessio-cerullo-335761214/
+- 🌐 **Portfolio:** https://personal-portfolio-alessio.web.app
+- 📧 **Email:** a.cerullo.business@gmail.com
